@@ -1,0 +1,243 @@
+station_id,station_name,latitude,longitude
+1,Bulvar Rokossovskogo,55.8148, 37.7342
+2,Cherkizovskaya,55.8038, 37.7448
+3,Preobrazhenskaya Ploshchad,55.7963, 37.7151
+4,Sokolniki,55.7888, 37.6802
+5,Krasnoselskaya,55.7801, 37.6673
+6,Komsomolskaya,55.7753, 37.6562
+7,Krasnye Vorota,55.7690, 37.6487
+8,Chistyye Prudy,55.7657, 37.6388
+9,Lubyanka,55.7597, 37.6272
+10,Okhotny Ryad,55.7577, 37.6166
+11,Biblioteka Imeni Lenina,55.7512, 37.6100
+12,Kropotkinskaya,55.7453, 37.6037
+13,Park Kultury,55.7356, 37.5943
+14,Frunzenskaya,55.7267, 37.5786
+15,Sportivnaya,55.7233, 37.5639
+16,Vorobyovy Gory,55.7103, 37.5592
+17,Universitet,55.6926, 37.5333
+18,Prospekt Vernadskogo,55.6771, 37.5060
+19,Yugo-Zapadnaya,55.6637, 37.4833
+20,Troparyovo,55.6459, 37.4725
+21,Rumyantsevo,55.6330, 37.4419
+22,Salaryevo,55.6227, 37.4240
+23,Filatov Lug,55.601367, 37.407645
+24,Prokshino,55.586242, 37.433802
+25,Olkhovaya,55.568643, 37.459332
+26,Kommunarka,55.560396, 37.468220
+27,Khovrino,55.8791, 37.4822
+28,Belomorskaya,55.8658, 37.4764
+29,Rechnoy Vokzal,55.8549, 37.4761
+30,Vodny Stadion,55.8398, 37.4867
+31,Voykovskaya,55.8190, 37.4980
+32,Sokol,55.8051, 37.5153
+33,Aeroport,55.8003, 37.5329
+34,Dinamo,55.7897, 37.5580
+35,Belorusskaya,55.7767, 37.5835
+36,Mayakovskaya,55.7701, 37.5958
+37,Tverskaya,55.7647, 37.6065
+38,Teatralnaya,55.7578, 37.6190
+39,Novokuznetskaya,55.7415, 37.6295
+40,Paveletskaya,55.7305, 37.6377
+41,Avtozavodskaya,55.7074, 37.6576
+42,Tekhnopark,55.6950, 37.6641
+43,Kolomenskaya,55.6785, 37.6638
+44,Kashirskaya,55.6551, 37.6487
+45,Kantemirovskaya,55.6358, 37.6564
+46,Tsaritsyno,55.6214, 37.6694
+47,Orekhovo,55.6132, 37.6949
+48,Domodedovskaya,55.6108, 37.7186
+49,Krasnogvardeyskaya,55.6137, 37.7444
+50,Alma-Atinskaya,55.6326, 37.7660
+51,Pyatnitskoye Shosse,55.8563, 37.3544
+52,Mitino,55.8457, 37.3622
+53,Volokolamskaya,55.8354, 37.3822
+54,Myakinino,55.8252, 37.3852
+55,Strogino,55.8038, 37.4031
+56,Krylatskoye,55.7567, 37.4081
+57,Molodyozhnaya,55.7408, 37.4168
+58,Kuntsevskaya,55.7307, 37.4459
+59,Slavyansky Bulvar,55.7296, 37.4706
+60,Park Pobedy,55.7362, 37.5182
+61,Kiyevskaya,55.7442, 37.5645
+62,Smolenskaya,55.7474, 37.5823
+63,Arbatskaya,55.7522, 37.6061
+64,Ploshchad Revolyutsii,55.7566, 37.6216
+65,Kurskaya,55.7576, 37.6577
+66,Baumanskaya,55.7730, 37.6806
+67,Elektrozavodskaya,55.7817, 37.7037
+68,Semyonovskaya,55.7833, 37.7208
+69,Partizanskaya,55.7886, 37.7506
+70,Izmaylovskaya,55.7878, 37.7814
+71,Pervomayskaya,55.7948, 37.7993
+72,Shchyolkovskaya,55.8094, 37.7986
+73,Pionerskaya,55.7360, 37.4671
+74,Filyovsky Park,55.7396, 37.4833
+75,Bagrationovskaya,55.7438, 37.4977
+76,Fili,55.7460, 37.5150
+77,Kutuzovskaya,55.7399, 37.5344
+78,Studencheskaya,55.7388, 37.5483
+79,Mezhdunarodnaya,55.7483, 37.5339
+80,Vystavochnaya,55.7502, 37.5408
+81,Aleksandrovsky Sad,55.7525, 37.6085
+82,Krasnopresnenskaya,55.7613, 37.5774
+83,Novoslobodskaya,55.7799, 37.6028
+84,Prospekt Mira,55.7798, 37.6318
+85,Taganskaya,55.7418, 37.6517
+86,Dobryninskaya,55.7291, 37.6243
+87,Oktyabrskaya,55.7297, 37.6091
+88,Medvedkovo,55.8872, 37.6613
+89,Babushkinskaya,55.8694, 37.6644
+90,Sviblovo,55.8552, 37.6527
+91,Botanichesky Sad,55.8449, 37.6383
+92,VDNKh,55.8211, 37.6411
+93,Alekseyevskaya,55.8088, 37.6390
+94,Rizhskaya,55.7936, 37.6362
+95,Sukharevskaya,55.7733, 37.6319
+96,Turgenevskaya,55.7661, 37.6374
+97,Kitay-gorod,55.7553, 37.6333
+98,Tretyakovskaya,55.7412, 37.6274
+99,Shabolovskaya,55.7198, 37.6083
+100,Leninsky Prospekt,55.7077, 37.5861
+101,Akademicheskaya,55.6877, 37.5733
+102,Profsoyuznaya,55.6780, 37.5627
+103,Novye Cheryomushki,55.6702, 37.5544
+104,Kaluzhskaya,55.6571, 37.5405
+105,Belyayevo,55.6428, 37.5257
+106,Konkovo,55.6333, 37.5188
+107,Tyoply Stan,55.6191, 37.5082
+108,Yasenevo,55.6063, 37.5333
+109,Novoyasenevskaya,55.6010, 37.5541
+110,Planernaya,55.8607, 37.4364
+111,Skhodnenskaya,55.8505, 37.4396
+112,Tushinskaya,55.8267, 37.4368
+113,Spartak,55.8182, 37.4352
+114,Shchukinskaya,55.8086, 37.4641
+115,Oktyabrskoye Polye,55.7935, 37.4935
+116,Polezhayevskaya,55.7775, 37.5192
+117,Begovaya,55.7738, 37.5468
+118,Ulitsa 1905 Goda,55.7650, 37.5613
+119,Barrikadnaya,55.7612, 37.5795
+120,Pushkinskaya,55.7650, 37.6079
+121,Kuznetsky Most,55.7606, 37.6259
+122,Proletarskaya,55.7319, 37.6659
+123,Volgogradsky Prospekt,55.7253, 37.6869
+124,Tekstilshchiki,55.7088, 37.7316
+125,Kuzminki,55.7056, 37.7656
+126,Ryazansky Prospekt,55.7170, 37.7933
+127,Vykhino,55.7156, 37.8181
+128,Lermontovsky Prospekt,55.7013, 37.8525
+129,Zhulebino,55.6855, 37.8563
+130,Kotelniki,55.6743, 37.8582
+131,Rasskazovka,55.6339, 37.3347
+132,Novoperedelkino,55.6396, 37.3552
+133,Borovskoye Shosse,55.6476, 37.3701
+134,Solntsevo,55.6493, 37.3909
+135,Govorovo,55.6595, 37.4172
+136,Ozyornaya,55.6709, 37.4491
+137,Michurinsky Prospekt,55.6896, 37.4833
+138,Ramenki,55.6975, 37.4984
+139,Lomonosovsky Prospekt,55.7069, 37.5156
+140,Minskaya,55.7246, 37.4970
+141,Delovoy Tsentr,55.7475, 37.5319
+142,Marksistskaya,55.7411, 37.6543
+143,Ploshchad Ilyicha,55.7472, 37.6824
+144,Aviamotornaya,55.7524, 37.7191
+145,Shosse Entuziastov,55.7576, 37.7500
+146,Perovo,55.7511, 37.7866
+147,Novogireyevo,55.7517, 37.8166
+148,Novokosino,55.7451, 37.8638
+149,Altufyevo,55.8980, 37.5870
+150,Bibirevo,55.8838, 37.6034
+151,Otradnoye,55.8633, 37.6047
+152,Vladykino,55.8473, 37.5899
+153,Petrovsko-Razumovskaya,55.8351, 37.5745
+154,Timiryazevskaya,55.8176, 37.5765
+155,Dmitrovskaya,55.8069, 37.5817
+156,Savyolovskaya,55.7927, 37.5885
+157,Mendeleyevskaya,55.7810, 37.6011
+158,Tsvetnoy Bulvar,55.7708, 37.6187
+159,Chekhovskaya,55.7644, 37.6097
+160,Borovitskaya,55.7511, 37.6072
+161,Polyanka,55.7379, 37.6180
+162,Serpukhovskaya,55.7280, 37.6246
+163,Tulskaya,55.7087, 37.6229
+164,Nagatinskaya,55.6830, 37.6224
+165,Nagornaya,55.6724, 37.6104
+166,Nakhimovsky Prospekt,55.6627, 37.6055
+167,Sevastopolskaya,55.6524, 37.5984
+168,Chertanovskaya,55.6405, 37.6067
+169,Yuzhnaya,55.6224, 37.6090
+170,Prazhskaya,55.6124, 37.6044
+171,Ulitsa Akademika Yangelya,55.5949, 37.6004
+172,Annino,55.5828, 37.5966
+173,Bulvar Dmitriya Donskogo,55.5693, 37.5769
+174,Seligerskaya,55.865000, 37.548333
+175,Verkhnie Likhobory,55.855833, 37.561111
+176,Okruzhnaya,55.846000, 37.574250
+177,Fonvizinskaya,55.8228, 37.5881
+178,Butyrskaya,55.8133, 37.6028
+179,Maryina Roshcha (Lyublinsko–Dmitrovskaya line),55.7954, 37.6162
+180,Dostoyevskaya,55.7816, 37.6151
+181,Trubnaya,55.7688, 37.6200
+182,Sretensky Bulvar,55.7668, 37.6392
+183,Chkalovskaya,55.7565, 37.6573
+184,Rimskaya,55.7463, 37.6819
+185,Krestyanskaya Zastava,55.7331, 37.6673
+186,Dubrovka,55.7186, 37.6760
+187,Kozhukhovskaya,55.7074, 37.6851
+188,Pechatniki (Lyublinsko–Dmitrovskaya line),55.6934, 37.7270
+189,Volzhskaya,55.6909, 37.7530
+190,Lyublino,55.6758, 37.7618
+191,Bratislavskaya,55.6597, 37.7505
+192,Maryino,55.6500, 37.7431
+193,Borisovo,55.6334, 37.7436
+194,Shipilovskaya,55.6211, 37.7437
+195,Zyablikovo,55.6124, 37.7453
+196,Mnyovniki,55.7585, 37.4708
+197,Narodnoye Opolcheniye,55.7738, 37.4844
+198,Shelepikha,55.7567, 37.5260
+199,Khoroshyovskaya,55.7768, 37.5207
+200,CSKA (Moscow Metro),55.7866, 37.5333
+201,Petrovsky Park,55.7918, 37.5571
+202,Bittsevsky Park,55.6004, 37.5562
+203,Lesoparkovaya,55.5821, 37.5769
+204,Ulitsa Starokachalovskaya,55.5690, 37.5767
+205,Ulitsa Skobelevskaya,55.5481, 37.5546
+206,Bulvar Admirala Ushakova,55.5455, 37.5430
+207,Ulitsa Gorchakova,55.5418, 37.5308
+208,Buninskaya Alleya,55.5380, 37.5158
+209,Ulitsa Milashenkova,55.8218, 37.5911
+210,Teletsentr,55.8218, 37.6089
+211,Ulitsa Akademika Korolyova,55.8218, 37.6269
+212,Vystavochny Tsentr,55.8240, 37.6383
+213,Ulitsa Sergeya Eyzenshteyna,55.8292, 37.6449
+214,Rostokino,55.8400, 37.6653
+215,Belokamennaya,55.8300, 37.7006
+216,Lokomotiv,55.8039, 37.7460
+217,Izmaylovo,55.7886, 37.7428
+218,Sokolinaya Gora,55.7714, 37.7451
+219,Andronovka,55.7411, 37.7344
+220,Nizhegorodskaya,55.7322, 37.7282
+221,Novokhokhlovskaya,55.7239, 37.7161
+222,Ugreshskaya,55.7183, 37.6978
+223,ZIL (Moscow Central Circle),55.6983, 37.6483
+224,Verkhniye Kotly,55.6900, 37.6189
+225,Krymskaya,55.6900, 37.6050
+226,Ploshchad Gagarina,55.7069, 37.5858
+227,Luzhniki,55.7203, 37.5631
+228,Khoroshyovo,55.7772, 37.5072
+229,Zorge,55.7878, 37.5045
+230,Panfilovskaya,55.7991, 37.4988
+231,Streshnevo,55.8136, 37.4869
+232,Baltiyskaya,55.8258, 37.4961
+233,Koptevo,55.8397, 37.5203
+234,Likhobory,55.8472, 37.5513
+235,Lefortovo,55.764738, 37.706747
+236,Stakhanovskaya,55.7250, 37.7619
+237,Okskaya,55.7186, 37.7817
+238,Yugo-Vostochnaya,55.704970, 37.819010
+239,Kosino,55.7033, 37.8511
+240,Ulitsa Dmitriyevskogo,55.7100, 37.8792
+241,Lukhmanovskaya,55.7085, 37.9004
+242,Nekrasovka,55.7036, 37.9264
