@@ -1,6 +1,6 @@
 # TDT4173-Machine-Learning
 
-This project was done i collaboration with Henrik Gundersen and Emil Ekornrød.
+This project was done in collaboration with Henrik Gundersen and Emil Ekornrød.
 
 In this project we predicted the prices of apartments in Moscow.
 Real estate is a popular investment vehicle and can be pretty lucurative.
